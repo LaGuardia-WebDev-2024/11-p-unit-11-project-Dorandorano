@@ -1,5 +1,7 @@
+
+
 body {
-  background-color: aliceblue;
+  background-image: aliceblue;
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -14,7 +16,9 @@ html{
 }
 
 #myCanvas {
+  background-image: url("https://cdn.glitch.global/b1454bcd-dc61-4f73-854b-4a8f6361e46f/IMG_8967.jpeg?v=1743176156089");
   border: 1px solid black;
+  background-size: cover;
 }
 
 .container{
