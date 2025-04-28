@@ -87,7 +87,7 @@ var drawEmoji = function(){
    textY += 30;}
  };
  
-  var drawEmoji1 = function(){
+  var drawEmoji2 = function(){
  var Num = 0;
     var textY = 30;
     var pArray = [ "hee hee ", "haha", "hoho"];
